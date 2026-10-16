@@ -8,17 +8,17 @@ Student ID-101647703
 - [My comp1238.md File](comp1238.md)
 ## My GBC Schedule
 - Monday
-  - 12:00 - COMP1151 - IT Essentials
-  - 14:00 - COMP1236 - Fund. of Computing Logic 
-  - 16:00 - COMP1238 - Data Management 
+  - 12:00 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/515478)
+  - 14:00 - [COMP1236 - Fund. of Computing Logic](https://learn.georgebrown.ca/d2l/home/514711)
+  - 16:00 - [COMP1238 - Data Management](https://learn.georgebrown.ca/d2l/home/513886)
 - Tuesday
-  - 12:00 - COMP1238 - Data Management
-  - 13:00 - MATH1162 - Math For Computer Technology
-  - 18:00 - COMP1234 - Web Development
+  - 12:00 - [COMP1238 - Data Management](https://learn.georgebrown.ca/d2l/home/513886)
+  - 13:00 - [MATH1162 - Math For Computer Technology](https://learn.georgebrown.ca/d2l/home/509304)
+  - 18:00 - [COMP1234 - Web Development](https://learn.georgebrown.ca/d2l/home/507493)
 - Wednesday
-  - 10:00 - COMP1236 - Fund. of Computing Logic
-  - 12:00 - COMP1234 - Web Development 
-  - 15:00 - COMM1000 - College Communication
+  - 10:00 - [COMP1236 - Fund. of Computing Logic](https://learn.georgebrown.ca/d2l/home/514711)
+  - 12:00 - [COMP1234 - Web Development](https://learn.georgebrown.ca/d2l/home/507493)
+  - 15:00 - [COMM1000 - College Communication](https://learn.georgebrown.ca/d2l/home/507493)
 - Thrusday
-  - 10:00 - COMP1151 - IT Essentials
-  - 14:00 - MATH1162 - Math For Computer Technology
+  - 10:00 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/515478)
+  - 14:00 - [MATH1162 - Math For Computer Technology](https://learn.georgebrown.ca/d2l/home/509304)
