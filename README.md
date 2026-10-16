@@ -22,3 +22,5 @@ Student ID-101647703
 - Thrusday
   - 10:00 - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/515478)
   - 14:00 - [MATH1162 - Math For Computer Technology](https://learn.georgebrown.ca/d2l/home/509304)
+
+[My GitHub Repo.](https://github.com/TailorKhush/assignment1)
